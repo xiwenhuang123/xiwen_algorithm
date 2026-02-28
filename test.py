@@ -1,3 +1,3 @@
-print ("hell")
+print ("HELLO GITHUB")
 
 
