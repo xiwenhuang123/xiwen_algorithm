@@ -1,3 +1,3 @@
-print ("HELLO GITHUB this is a test file")
+print ("HELLO GITHUB this is a test file in terminal")
 
 
